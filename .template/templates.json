@@ -1,0 +1,13 @@
+{
+    "metadata":{
+       "version":"1"
+    },
+    "templates":[
+       {
+          "path":".",
+          "name":"Bank of Anthos",
+          "description":"E2E Anthos Example",
+          "languages":[]          
+       }
+    ]
+ }
